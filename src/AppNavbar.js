@@ -16,7 +16,7 @@ const AppNavbar = () => {
                         <NavLink href="https://twitter.com/RonitSanvariya">@RonitSanvariya</NavLink>
                     </NavItem>
                     <NavItem>
-                        <NavLink href="https://github.com/oktadev/okta-spring-boot-react-crud-example">GitHub</NavLink>
+                        <NavLink href="https://github.com/shubham-sanvariya">GitHub</NavLink>
                     </NavItem>
                 </Nav>
             </Collapse>
